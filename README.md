@@ -3,6 +3,8 @@
 ## Overview
 This day trading algorithm is designed to generate profits through high-frequency trading using technical analysis and machine learning predictions. It supports multiple assets, portfolio optimization, and includes a simple GUI for easier interaction and monitoring.
 
+Note: ``` GUI NOT WORKING PROPERLY YET ```
+
 ## Requirements
 - Python 3.7+
 - yfinance
@@ -59,3 +61,7 @@ You can customize the algorithm by:
 
 ## Disclaimer
 This algorithmic trading system is for educational and research purposes only. It is not intended to be used as financial advice or a recommendation to trade real money. Algorithmic trading carries a high level of risk, and there is always the potential for significant financial loss. Always consult with a qualified financial advisor before making any investment decisions.
+
+## License
+
+No license is given to this product, only authorized people can edit and re - use this content, github is only intented to serve as a cloud to store the files-
