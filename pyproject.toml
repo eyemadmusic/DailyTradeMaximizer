@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "repl-nix-dailytrademaximizer"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ta = "^0.11.0"
+numpy = "^2.1.1"
+matplotlib = "^3.9.2"
+yfinance = "^0.2.44"
+pandas = "^2.2.3"
+scikit-learn = "^1.5.2"
+streamlit = "^1.39.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
